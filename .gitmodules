@@ -6,7 +6,7 @@
 	url = https://github.com/NVIDIA/cutlass.git
 [submodule "src/cuda/cuda-samples"]
 	path = src/cuda/cuda-samples
-	url = https://github.com/NVIDIA/cuda-samples/tree/v12.5
+	url = https://github.com/nasirali91/cuda-samples
 [submodule "src/cuda/pytorch_examples"]
 	path = src/cuda/pytorch_examples
 	url = https://github.com/accel-sim/pytorch_examples.git
