@@ -1,5 +1,5 @@
 add_subdirectory(StreamPriorities)
-add_subdirectory(bf16TensorCoreGemm)
+#add_subdirectory(bf16TensorCoreGemm)
 add_subdirectory(binaryPartitionCG)
 add_subdirectory(bindlessTexture)
 add_subdirectory(cdpAdvancedQuicksort)
