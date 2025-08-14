@@ -18,4 +18,4 @@ source src/setup_environment
 
 MAKE_TARGET="${1:-all}"
 
-make -C src/ "$MAKE_TARGET"
+make -C src/ "$MAKE_TARGET" VERBOSE=1
